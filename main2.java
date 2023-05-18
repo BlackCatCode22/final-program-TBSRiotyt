@@ -259,7 +259,7 @@ public class main2 {
         }
 
         try {
-            FileWriter file = new FileWriter("C:/2023spring/midtermProgram/javaOutputFile.txt");
+            FileWriter file = new FileWriter("C:/2023spring/finaltermProgram/javaOutputFile.txt");
             BufferedWriter output = new BufferedWriter(file);
             output.write("Hyena Habitat:\n\n");
             for (int i = 0; i < 4; i++) {
